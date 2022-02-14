@@ -8,7 +8,7 @@ Claire Maina
 # Task Description
 
 - Create a python function that when you input a number the function you have created checks whether the number belongs to the Fibonacci sequence or not.   
-- Using your preferred blogging or article writing platform draft an article titled Python 101: Ultimate Python Guide or Introduction to Modern Python.  
+- Using your preferred blogging or article writing platform draft an article titled Python 101: Ultimate Python Guide or Introduction to Modern Python.  [Click here](https://dev.to/clairetaar/python-101-ultimate-python-guide-2nc7) for the link to my article
 
 # Setup/Installation Requirements
 Open the ipynb file in a Google Collaboratory environment to view the analysis
